@@ -1,6 +1,7 @@
 # EER-diagram
 
 ## Best Practices of ER Diagram:
+- Think hard about the best ways to diagram information for your specific business
 - Remove vague, redundant or unnecessary relationships between entities.
 - Provide a precise and appropriate name for each entity, attribute, and relationship in the diagram. Terms that are simple and familiar always beats vague, technical-sounding words. In naming entities, remember to use singular nouns. However, adjectives may be used to distinguish entities belonging to the same class (part-time employee and full-time employee, for example). Meanwhile attribute names must be meaningful, unique, system-independent, and easily understandable.
 - Never connect a relationship to another relationship.
@@ -24,3 +25,4 @@
  - git pull
  - git push
 
+http://hrm.tafuritechnologies.com:49000/#/dashboard
